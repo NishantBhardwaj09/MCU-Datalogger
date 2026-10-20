@@ -1,11 +1,11 @@
 *-backups/
-*.kicad_prl
 *.lck
 *.kicad_sch-bak
 *.kicad_pcb-bak
 *.kicad_pro-bak
 *.kicad_wks-bak
 _autosave-*/
+_autosave-*
 *.raw
 *.tran
 *.ac
