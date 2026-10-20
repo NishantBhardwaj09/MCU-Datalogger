@@ -1,0 +1,16 @@
+*-backups/
+*.kicad_prl
+*.lck
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.kicad_pro-bak
+*.kicad_wks-bak
+_autosave-*/
+*.raw
+*.tran
+*.ac
+*.dc
+*.plt
+.DS_Store
+Thumbs.db
+desktop.ini
