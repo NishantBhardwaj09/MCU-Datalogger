@@ -2,7 +2,7 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid "6fab4cff-ad07-4669-9685-5a56c91adb07")
+	(uuid "7c0b5a0e-6a67-4260-85f7-87784edad899")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Connector:Conn_01x04_Pin"
@@ -1022,7 +1022,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1c1371ac-18d1-44c0-96e6-3b29e9dae58e")
-		(property "Reference" "J4"
+		(property "Reference" "J3"
 			(at 87.63 36.83 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1106,7 +1106,7 @@
 		(instances
 			(project "MCU Datalogger"
 				(path "/046ed9df-8a70-4e0e-95d6-1fb540a15377/37d5f673-6493-4ca5-aec1-606f4a707970"
-					(reference "J4")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -1123,7 +1123,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "810fbbd5-1e9b-4ea4-9d84-35bf0e779991")
-		(property "Reference" "J3"
+		(property "Reference" "J1"
 			(at 60.325 46.99 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1216,7 +1216,7 @@
 		(instances
 			(project "MCU Datalogger"
 				(path "/046ed9df-8a70-4e0e-95d6-1fb540a15377/37d5f673-6493-4ca5-aec1-606f4a707970"
-					(reference "J3")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -1233,7 +1233,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "af24d6bb-0df1-451c-acae-e0cfc7dd026d")
-		(property "Reference" "J1"
+		(property "Reference" "J2"
 			(at 81.915 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1311,7 +1311,7 @@
 		(instances
 			(project "MCU Datalogger"
 				(path "/046ed9df-8a70-4e0e-95d6-1fb540a15377/37d5f673-6493-4ca5-aec1-606f4a707970"
-					(reference "J1")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -1328,7 +1328,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b6260433-6721-448d-9635-49b042cf359c")
-		(property "Reference" "J2"
+		(property "Reference" "J4"
 			(at 99.695 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1406,7 +1406,7 @@
 		(instances
 			(project "MCU Datalogger"
 				(path "/046ed9df-8a70-4e0e-95d6-1fb540a15377/37d5f673-6493-4ca5-aec1-606f4a707970"
-					(reference "J2")
+					(reference "J4")
 					(unit 1)
 				)
 			)
