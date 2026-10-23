@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "DS1337S_") (type "KiCad") (uri "C:/embedded/PCB/kicad lib/DS1337S_.pretty") (options "") (descr ""))
+)
