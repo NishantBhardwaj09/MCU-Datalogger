@@ -3966,6 +3966,16 @@
 		)
 		(uuid "10341f47-5eef-4056-9a28-6db32b2a4434")
 	)
+	(label "VCC"
+		(at 260.35 35.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "123fd848-e623-4b85-8dba-cf90ac45ee09")
+	)
 	(label "RESET"
 		(at 184.15 125.73 180)
 		(effects
