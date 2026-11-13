@@ -4076,6 +4076,16 @@
 		)
 		(uuid "3323dbf4-682d-4e24-949a-4b1a1403bb3d")
 	)
+	(label "cap"
+		(at 191.77 36.83 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "351c4aa1-8970-4559-9806-6a2e2efa0af5")
+	)
 	(label "VCC"
 		(at 88.9 134.62 180)
 		(effects
